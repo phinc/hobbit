@@ -1,4 +1,7 @@
 package by.imix.controlSystem.domain.dao;
+/*
+ * Author: Irinka
+ */
 
 import by.imix.controlSystem.domain.models.Document;
 
