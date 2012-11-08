@@ -1,5 +1,6 @@
 package by.imix.controlSystem.domain.dao;
 /*
+ * Class: DocumentDao
  * Author: Irinka
  */
 
